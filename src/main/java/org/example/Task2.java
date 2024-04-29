@@ -3,7 +3,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.Arrays;
-
 public class Task2 {
     public static void main(String[] args) throws Exception{
             BufferedReader reader = new BufferedReader(new FileReader("listNames.txt"));
