@@ -39,7 +39,6 @@ public class Task3 {
                 this.weapon = weapon;
                 this.armor = armor;
             }
-
             public Hero() {
             }
 
