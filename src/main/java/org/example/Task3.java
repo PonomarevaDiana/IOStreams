@@ -30,7 +30,6 @@ public class Task3 {
             private int lvl = 10;
             private Weapon weapon = new Weapon("меч");
             private Armor armor = new Armor("латы");
-
             public Hero(String name,
                         int lvl,
                         Weapon weapon,
